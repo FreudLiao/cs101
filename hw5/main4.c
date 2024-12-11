@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-    int i =1;
+    int i =12345;
     int thousand,unit;
     thousand = (i /1000)%10;
     unit = i %10;
